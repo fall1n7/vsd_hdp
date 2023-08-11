@@ -48,6 +48,9 @@ Screenshot of tool launching
 
 ![Screenshot from 2023-08-11 16-23-16](https://github.com/fall1n7/vsd_hdp/assets/140475909/c172e242-3266-4af6-aa4b-bc75a234932c)
 
+</details>	
+
+
 
 
 
