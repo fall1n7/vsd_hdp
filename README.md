@@ -18,7 +18,7 @@
  <summary> Summary </summary>
 
 
-System/Tools setup. Installed all necessary tools and is shown below.
+* System/Tools setup. Installed all necessary tools and is shown below.
 
 </details>	
 
