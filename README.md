@@ -7,16 +7,18 @@
 ***
 ***
 [Day-0](#day-0)
+ 
+[Day-1](#day-1)
+
+[Day-2](#day-2)
+
+## Day 0
 
 <details>
  <summary> Summary </summary>
 
 
- I installed the needed tools.
+System/Tools setup. Installed all necessary tools and is shown below.
 
 </details>	
- 
 
-[Day-1](#day-1)
-
-[Day-2](#day-2)
