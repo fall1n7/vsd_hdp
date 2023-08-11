@@ -28,10 +28,10 @@
 
  Installed Yosys using the commands specified in system check and tool installation document.
 
- Inline `code`
+ `code`
 
   
-  ``` bash
+  ``` sh
   $ git clone https://github.com/YosysHQ/yosys.git
   $ cd yosys
   $ sudo apt install make (If make is not installed please install it) 
