@@ -23,6 +23,6 @@
 </details>	
 
 
- <details>
+<details>
  <summary> Yosys </summary>
 
