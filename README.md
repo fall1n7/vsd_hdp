@@ -73,7 +73,7 @@ Screenshot of tool launching
 <details>
  <summary> GTKwave </summary>
 
- Installed gtkwave using the commands specified in system check and tool installation document.
+Installed gtkwave using the commands specified in system check and tool installation document.
 
  `code`
 
