@@ -31,7 +31,7 @@
  `code`
 
   
-  ``` sh
+  ``` zsh
   $ git clone https://github.com/YosysHQ/yosys.git
   $ cd yosys
   $ sudo apt install make (If make is not installed please install it) 
