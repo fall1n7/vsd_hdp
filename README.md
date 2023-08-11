@@ -7,3 +7,8 @@
 ***
 ***
 + [ Tools installation][1]
+
+1. [Yosys](#####%20<u>Yosys</u>)
+2. [iverilog](#markdigsyntaxinlineshtmlinlineiverilogmarkdigsyntaxinlineshtmlinline)
+3. [gtkwave](#markdigsyntaxinlineshtmlinlinegtkwavemarkdigsyntaxinlineshtmlinline)
+
