@@ -12,7 +12,7 @@
  <summary> Summary </summary>
 
 
-I installed the needed tools.
+ I installed the needed tools.
 
 </details>	
  
