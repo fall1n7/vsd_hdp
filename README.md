@@ -6,11 +6,11 @@
 
 ***
 ***
-[Day-0](#day-0)
+[Day 0](#day-0)
  
-[Day-1](#day-1)
+[Day 1](#day-1)
 
-[Day-2](#day-2)
+[Day 2](#day-2)
 
 ## Day 0
 
