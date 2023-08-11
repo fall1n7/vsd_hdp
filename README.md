@@ -50,6 +50,12 @@ Screenshot of tool launching
 
 </details>	
 
+<details>
+ <summary> iVerilog </summary>
+
+ Installed iVerilog using the commands specified in system check and tool installation document.
+
+ `code`
 
 
 
