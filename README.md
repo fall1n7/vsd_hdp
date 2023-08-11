@@ -1,3 +1,3 @@
-# vsd_hdp
+# VSD_HDP
 
 ## Contents
