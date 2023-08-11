@@ -8,12 +8,10 @@
 ***
 [Day-0](#day-0)
 
-## Day 0
-
 <details>
  <summary> Summary </summary>
 
-  I installed the needed tools.
+I installed the needed tools.
 
 </details>	
  
