@@ -25,5 +25,17 @@
 
 <details>
  <summary> Yosys </summary>
+
+  Installed Yosys using the commands specified in system check and tool installation document.
+
+  Inline `code`
+
   
+  ``` js
+  var foo = function (bar) {
+    return bar++;
+  };
+
+  console.log(foo(5));
+  ```
 
