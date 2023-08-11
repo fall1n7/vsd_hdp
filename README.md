@@ -6,9 +6,8 @@
 
 ***
 ***
-+ [ Tools installation][1]
+[Day 0](#day-0)
 
-1. [Yosys](#####%20<u>Yosys</u>)
-2. [iverilog](#markdigsyntaxinlineshtmlinlineiverilogmarkdigsyntaxinlineshtmlinline)
-3. [gtkwave](#markdigsyntaxinlineshtmlinlinegtkwavemarkdigsyntaxinlineshtmlinline)
+[Day 1](#day-1)
 
+[Day 2](#day-2)
