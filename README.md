@@ -26,9 +26,9 @@
 <details>
  <summary> Yosys </summary>
 
-  Installed Yosys using the commands specified in system check and tool installation document.
+ Installed Yosys using the commands specified in system check and tool installation document.
 
-  Inline `code`
+ Inline `code`
 
   
   ``` js
