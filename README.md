@@ -113,6 +113,10 @@ Screenshot of tool launching
 
  The example used in this module is good_mux.v
 
+ <details>
+ <summary> Simulation </summary>
+
+
 
        
  
