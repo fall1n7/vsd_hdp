@@ -118,6 +118,10 @@ Screenshot of tool launching
  <details>
   <summary> Simulation </summary>
 
+  The simulation of the verilog file was done using iverilog and the vcd file is read using gtkwave followed by verification of the functionality of the design.
+
+  
+
   
 
 
