@@ -102,7 +102,7 @@ Screenshot of tool launching
       to see the waveform and verify the functionality of the design.
     * The Design and the .lib are the inputs to the synthesizer(Yosys) which gives the output as netlist. The netlist is then compared with the testbench using
       iverilog to verify the functionality of the generated netlist.
-    * Used an example of a 2:1 Mux for simulation and synthesis using iverilog and Yosys.
+    * Used an example of a 2:1 MUX for simulation and synthesis using iverilog and Yosys.
        
  
 
