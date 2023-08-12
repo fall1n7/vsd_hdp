@@ -110,7 +110,8 @@ Screenshot of tool launching
  <summary> Design </summary>
 
  The verilog design and the library files were cloned from this repo : https://github.com/kunalg123/sky130RTLDesignAndSynthesisWorkshop.git
- 
+
+ The example used in this module is good_mux.v
 
 
        
