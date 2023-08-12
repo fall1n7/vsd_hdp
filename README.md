@@ -131,7 +131,7 @@ Screenshot of tool launching
 </details>
 
 <details>
-  <summary> Synthesis </summary>
+ <summary> Synthesis </summary>
 
 
 
