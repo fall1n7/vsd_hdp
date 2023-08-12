@@ -142,8 +142,12 @@ Screenshot of tool launching
   yosys> abc -liberty <path to lib file>
   yosys> show
   ```
-  + Synthesis Results
-   ![Screenshot from 2023-08-10 23-25-53](https://github.com/fall1n7/vsd_hdp/assets/140475909/7621e845-d200-480a-95bb-e60c9392fc54)
+   + Synthesis Results
+    ![Screenshot from 2023-08-10 23-25-53](https://github.com/fall1n7/vsd_hdp/assets/140475909/7621e845-d200-480a-95bb-e60c9392fc54)
+
+  + Netlist Generation `code`
+
+  
     
 
 
