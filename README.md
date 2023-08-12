@@ -133,6 +133,10 @@ Screenshot of tool launching
 <details>
  <summary> Synthesis </summary>
 
+ The sunthesis was done using Yosys and netlist was generated. 
+  + commands used `code`
+ 
+
 
 
        
