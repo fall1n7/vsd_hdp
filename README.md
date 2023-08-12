@@ -120,6 +120,11 @@ Screenshot of tool launching
 
  The simulation of the verilog file was done using iverilog and the vcd file is read using gtkwave followed by verification of the functionality of the design.
   + commands used `code`
+  ```bash
+  iverilog <name verilog: good_mux.v> <name testbench: tb_good_mux.v>
+  ./a.out
+  gtkwave tb_good_mux.vcd
+  ```
   
 
   
