@@ -167,7 +167,7 @@ Screenshot of tool launching
    * Why different flavours of standard cells are required?
    * What is setup time, hold time and timing violations
    * Faster vs Slower cells
-   * Selection of cells - synthesys constraints
+   * Selection of cells - synthesis constraints
    * PVT Corners
    * Informations in .lib file
    * Hierarachial vs Flat synthesis
