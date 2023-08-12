@@ -139,7 +139,6 @@ Screenshot of tool launching
   yosys> read_liberty -lib <path to lib file>
   yosys> read_verilog <path to verilog file>
   yosys> synth -top <top_module_name>
-
   yosys> abc -liberty <path to lib file>
   yosys> show
   ```
