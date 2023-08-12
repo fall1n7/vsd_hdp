@@ -105,6 +105,14 @@ Screenshot of tool launching
     * Used an example of a 2:1 MUX for simulation and synthesis using iverilog and Yosys.
 
  </details>	
+
+<details>
+ <summary> Design </summary>
+
+ The verilog design and the library files were cloned from this repo : https://github.com/kunalg123/sky130RTLDesignAndSynthesisWorkshop.git
+ 
+
+
        
  
 
