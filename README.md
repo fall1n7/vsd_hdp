@@ -97,8 +97,12 @@ Screenshot of tool launching
  Introduction to Verilog RTL Design and Synthesis.
 
  + Brief introduction about on what is a simulator, Design, Verification Environment(Testbench) and Synthesis process.
+   
     * The Design and the Testbench are the inputs to a Simulator(iverilog) which gives the output as a value change dump file(VCD) which is then read gtkwave
       to see the waveform and verify the functionality of the design.
+    * The Design and the .lib are the inputs to the synthesizer(Yosys) which gives the output as netlist. The netlist is then compared with the testbench using
+      iverilog to verify the functionality of the generated netlist.
+    *
        
  
 
