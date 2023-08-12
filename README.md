@@ -116,7 +116,7 @@ Screenshot of tool launching
  </details>	
 
  <details>
- <summary> Simulation </summary>
+  <summary> Simulation </summary>
 
 
 
