@@ -155,6 +155,25 @@ Screenshot of tool launching
 
  </details>
 
+ ## Day 2
+
+ <details>
+ <summary> Summary </summary>
+
+ Introduction to timing.libs
+
+ + Brief Introduction was given on the following:
+   * What is a .lib file?
+   * Why different flavours of standard cells are required?
+   * What is setup time, hold time and timing violations
+   * Faster vs Slower cells
+   * Selection of cells - synthesys constraints
+   * PVT Corners
+   * Informations in .lib file
+   
+
+ 
+
 
  
 
