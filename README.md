@@ -107,7 +107,7 @@ Screenshot of tool launching
  </details>	
 
  <details>
- <summary> Design </summary>
+  <summary> Design </summary>
 
  The verilog design and the library files were cloned from this repo : https://github.com/kunalg123/sky130RTLDesignAndSynthesisWorkshop.git
 
@@ -117,6 +117,8 @@ Screenshot of tool launching
 
  <details>
   <summary> Simulation </summary>
+
+  
 
 
 
