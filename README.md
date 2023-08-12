@@ -170,6 +170,7 @@ Screenshot of tool launching
    * Selection of cells - synthesys constraints
    * PVT Corners
    * Informations in .lib file
+   * Hierarachial vs Flat synthesis
    
 
  
