@@ -103,6 +103,8 @@ Screenshot of tool launching
     * The Design and the .lib are the inputs to the synthesizer(Yosys) which gives the output as netlist. The netlist is then compared with the testbench using
       iverilog to verify the functionality of the generated netlist.
     * Used an example of a 2:1 MUX for simulation and synthesis using iverilog and Yosys.
+
+ </details>	
        
  
 
