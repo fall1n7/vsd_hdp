@@ -201,9 +201,9 @@ Netlist
 Flat version of synthesis
 
 + commands used - Synthesis `code`
-```bash
+ ```bash
 yosys> flatten
-yosys> write_verilog -noattr multiple_modules_flat.v
+yosys> write_verilog -noattr <file name>
 ```
 Synthesis Result 
 
