@@ -238,6 +238,11 @@ Sub_Module-2 Synthesis Result
 
  ![Screenshot from 2023-08-25 15-17-47](https://github.com/fall1n7/vsd_hdp/assets/140475909/4772087c-cd31-42fb-87ba-f12708d9ca80)
 
+</details>
+
+<details>
+ <summary> Simulation of Asynchronous Reset </summary>
+
 
  
 
