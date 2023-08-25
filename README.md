@@ -198,6 +198,23 @@ Netlist
  ![Screenshot from 2023-08-25 14-55-25](https://github.com/fall1n7/vsd_hdp/assets/140475909/92606e13-92e6-493d-a4b4-59ac96c935f8)
 
 
+Flat version of synthesis
+
++ commands used - Synthesis `code`
+```bash
+yosys> flatten
+yosys> write_verilog -noattr multiple_modules_flat.v
+```
+Synthesis Result 
+
+ ![Screenshot from 2023-08-25 14-59-08](https://github.com/fall1n7/vsd_hdp/assets/140475909/c79944aa-fbbd-4b6f-86ef-85c17050eeed)
+
+Netlist 
+
+ ![Screenshot from 2023-08-25 15-01-49](https://github.com/fall1n7/vsd_hdp/assets/140475909/fab1abe4-18a8-43f6-b146-bffd72a47af0)
+
+ 
+
 
  
 
