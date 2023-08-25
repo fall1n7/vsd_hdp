@@ -189,9 +189,9 @@ Screenshot of tool launching
   yosys> abc -liberty <path to lib file>
   yosys> show
   ```
+Synthesis Result 
+ ![Screenshot from 2023-08-21 19-26-36](https://github.com/fall1n7/vsd_hdp/assets/140475909/0bcf86e4-bed3-4c99-9ae8-42107faccd54)
 
- 
- 
 
  
 
