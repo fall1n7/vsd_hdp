@@ -257,7 +257,7 @@ Sub_Module-2 Synthesis Result
 </details>
 
 <details>
- <summary> Simulation of Asynchronous set </summary>
+ <summary> Simulation of Asynchronous Set </summary>
 
 + commands used - Simulation `code`
   ```bash
@@ -272,7 +272,7 @@ Sub_Module-2 Synthesis Result
 </details>
 
 <details>
- <summary> Simulation of synchronous reset </summary>
+ <summary> Simulation of Synchronous Reset </summary>
 
 + commands used - Simulation `code`
   ```bash
@@ -285,6 +285,60 @@ Sub_Module-2 Synthesis Result
    ![Screenshot from 2023-08-25 04-43-50](https://github.com/fall1n7/vsd_hdp/assets/140475909/fad5e502-54ed-4a95-83fc-48136b623bfa)
 
 </details>
+
+<details>
+ <summary> Synthesis of Asynchronous Reset </summary>
+
++ commands used - Simulation `code`
+  ```bash
+  yosys> read_liberty -lib <path to library>
+  yosys> read_verilog <name of verilog file>
+  yosys> synth -top <name>
+  yosys> dfflibmap -liberty <path library>
+  yosys> abc -liberty <path to library>
+  yosys> show 
+  ```
+  Results
+  
+   ![Screenshot from 2023-08-25 13-20-02](https://github.com/fall1n7/vsd_hdp/assets/140475909/adb71c99-07c8-45d1-8698-615a4bc599d8)
+
+</details>
+
+<details>
+ <summary> Synthesis of Asynchronous Set </summary>
+
++ commands used - Simulation `code`
+  ```bash
+  yosys> read_liberty -lib <path to library>
+  yosys> read_verilog <name of verilog file>
+  yosys> synth -top <name>
+  yosys> dfflibmap -liberty <path library>
+  yosys> abc -liberty <path to library>
+  yosys> show 
+  ```
+  Results
+   ![Screenshot from 2023-08-25 13-23-21](https://github.com/fall1n7/vsd_hdp/assets/140475909/e6708a52-3bf2-4398-bf3f-d449aba42553)
+
+</details>
+
+<details>
+ <summary> Synthesis of Synchronous Reset </summary>
+
++ commands used - Simulation `code`
+  ```bash
+  yosys> read_liberty -lib <path to library>
+  yosys> read_verilog <name of verilog file>
+  yosys> synth -top <name>
+  yosys> dfflibmap -liberty <path library>
+  yosys> abc -liberty <path to library>
+  yosys> show 
+  ```
+  Results
+
+   ![Screenshot from 2023-08-25 13-27-28](https://github.com/fall1n7/vsd_hdp/assets/140475909/ac48e131-41fd-4b6d-98c9-ea987b5b340c)
+
+
+
 
 
 
