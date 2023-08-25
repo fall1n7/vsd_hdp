@@ -178,6 +178,18 @@ Screenshot of tool launching
 
 <details>
  <summary> Synthesis </summary>
+
+ The Synthesys was performed using the following code
+    + commands used - Synthesis `code`
+  ```bash
+  yosys> read_liberty -lib <path to lib file>
+  yosys> read_verilog <path to verilog file>
+  yosys> synth -top <top_module_name> 
+  yosys> abc -liberty <path to lib file>
+  yosys> show
+  ```
+
+ 
  
 
  
