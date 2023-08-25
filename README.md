@@ -179,7 +179,7 @@ Screenshot of tool launching
 <details>
  <summary> Synthesis </summary>
 
- The Synthesys was performed using the following code
+ The Synthesis was performed using the following code
   
  + commands used - Synthesis `code`
   ```bash
@@ -212,6 +212,27 @@ Synthesis Result
 Netlist 
 
  ![Screenshot from 2023-08-25 15-01-49](https://github.com/fall1n7/vsd_hdp/assets/140475909/fab1abe4-18a8-43f6-b146-bffd72a47af0)
+
+</details>
+
+
+<details>
+ <summary> Synthesis - Submodule Level </summary>
+
+The Sub-Module level Synthesis was performed using the following code
+
++ commands used - Synthesis `code`
+  ```bash
+  yosys> read_liberty -lib <path to lib file>
+  yosys> read_verilog <path to verilog file>
+  yosys> synth -top <Sub_module_name> 
+  yosys> abc -liberty <path to lib file>
+  yosys> show
+  ```
+
+
+
+
 
  
 
