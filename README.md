@@ -245,11 +245,48 @@ Sub_Module-2 Synthesis Result
 
 + commands used - Simulation `code`
   ```bash
+  iverilog <verilog file> <testbench>
+  ./a.out
+  gtkwave <vcd file name>
+  ```
+  Results
 
-iverilog <verilog file> <testbench>
-./a.out
-gtkwave <vcd file name>
-```
+   ![Screenshot from 2023-08-25 03-29-44](https://github.com/fall1n7/vsd_hdp/assets/140475909/bdbfedea-74c7-4ece-9886-2d7329381137)
+
+
+</details>
+
+<details>
+ <summary> Simulation of Asynchronous set </summary>
+
++ commands used - Simulation `code`
+  ```bash
+  iverilog <verilog file> <testbench>
+  ./a.out
+  gtkwave <vcd file name>
+  ```
+  Results
+
+   ![Screenshot from 2023-08-25 03-34-22](https://github.com/fall1n7/vsd_hdp/assets/140475909/86d42546-dc73-4e79-81c3-807fc4c12282)
+
+</details>
+
+<details>
+ <summary> Simulation of synchronous reset </summary>
+
++ commands used - Simulation `code`
+  ```bash
+  iverilog <verilog file> <testbench>
+  ./a.out
+  gtkwave <vcd file name>
+  ```
+  Results
+  
+   ![Screenshot from 2023-08-25 04-43-50](https://github.com/fall1n7/vsd_hdp/assets/140475909/fad5e502-54ed-4a95-83fc-48136b623bfa)
+
+</details>
+
+
 
 
 
