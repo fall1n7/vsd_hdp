@@ -171,6 +171,8 @@ Screenshot of tool launching
    * PVT Corners
    * Informations in .lib file
    * Hierarachial vs Flat synthesis
+   * Why flipflops?
+   * Custom Optimisation 
    
 
  
