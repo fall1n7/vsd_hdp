@@ -243,6 +243,15 @@ Sub_Module-2 Synthesis Result
 <details>
  <summary> Simulation of Asynchronous Reset </summary>
 
++ commands used - Simulation `code`
+  ```bash
+
+iverilog <verilog file> <testbench>
+./a.out
+gtkwave <vcd file name>
+```
+
+
 
  
 
