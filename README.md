@@ -337,6 +337,56 @@ Sub_Module-2 Synthesis Result
 
    ![Screenshot from 2023-08-25 13-27-28](https://github.com/fall1n7/vsd_hdp/assets/140475909/ac48e131-41fd-4b6d-98c9-ea987b5b340c)
 
+</details>
+
+<details>
+ <summary> Synthesis of Mult_2.v </summary>
+
++ commands used - Simulation `code`
+  ```bash
+  yosys> read_liberty -lib <path to library>
+  yosys> read_verilog <name of verilog file>
+  yosys> synth -top <name>
+  yosys> dfflibmap -liberty <path library>
+  yosys> abc -liberty <path to library>
+  yosys> show 
+  ```
+  Synthesis Results
+
+   ![Screenshot from 2023-08-25 14-03-45](https://github.com/fall1n7/vsd_hdp/assets/140475909/97ea731f-4ef1-4c0d-aa72-c2d867e0edfe)
+
+  Synthesis Netlist
+
+   ![Screenshot from 2023-08-25 14-08-20](https://github.com/fall1n7/vsd_hdp/assets/140475909/79534bff-ce95-4fe4-8f18-cd7f9d77ddde)
+
+</details>
+
+<details>
+ <summary> Synthesis of Mult_8.v </summary>
+
++ commands used - Simulation `code`
+  ```bash
+  yosys> read_liberty -lib <path to library>
+  yosys> read_verilog <name of verilog file>
+  yosys> synth -top <name>
+  yosys> dfflibmap -liberty <path library>
+  yosys> abc -liberty <path to library>
+  yosys> show 
+  ```
+  Synthesis Results
+
+   ![Screenshot from 2023-08-25 14-10-29](https://github.com/fall1n7/vsd_hdp/assets/140475909/886e2617-ad74-400b-b8f6-f12f91cb5c38)
+
+  Synthesis Netlist
+
+   ![Screenshot from 2023-08-25 14-11-17](https://github.com/fall1n7/vsd_hdp/assets/140475909/5de407ef-df35-4bd6-b3f3-9cffc7ecdb57)
+
+
+ 
+
+
+
+
 
 
 
