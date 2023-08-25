@@ -383,6 +383,8 @@ Sub_Module-2 Synthesis Result
 
    ![Screenshot from 2023-08-25 14-11-17](https://github.com/fall1n7/vsd_hdp/assets/140475909/5de407ef-df35-4bd6-b3f3-9cffc7ecdb57)
 
+</details>
+
 ## Day 3
 
 <details>
