@@ -172,8 +172,13 @@ Screenshot of tool launching
    * Informations in .lib file
    * Hierarachial vs Flat synthesis
    * Why flipflops?
-   * Custom Optimisation 
-   
+   * Custom Optimisation
+  
+</details>
+
+<details>
+ <summary> Synthesis </summary>
+ 
 
  
 
