@@ -392,7 +392,12 @@ Sub_Module-2 Synthesis Result
 
  Introduction to Logic Optimisations 
 
- 
+ + Brief Introduction was given on the following:
+   * A Brief explanation was given about the optimization techniques in combinational and sequencial circuits.
+   * The combinational logic has two optimization techniques, 1- Constant or direct configuration and Boolean logic optimization.
+   * The Sequencial optimisation is of two types, Basic and Advanced. The Basic level optimization is the sequencial constant propogation and the Advanced level is classified into three types, 1) State Optimisation 2) Retiming 3) Sequencial logic cloning.
+   
+</details>
 
 
 
